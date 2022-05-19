@@ -1,0 +1,107 @@
+../ECE385-HelperTools-master/PNG To Hex/On-Chip Memory/ram-castle.sv
+../ECE385-HelperTools-master/PNG To Hex/On-Chip Memory/ram-coin.sv
+../ECE385-HelperTools-master/PNG To Hex/On-Chip Memory/ram-coin_holder.sv
+../ECE385-HelperTools-master/PNG To Hex/On-Chip Memory/ram-flag.sv
+../ECE385-HelperTools-master/PNG To Hex/On-Chip Memory/ram-goomba.sv
+../ECE385-HelperTools-master/PNG To Hex/On-Chip Memory/ram-luigi.sv
+../ECE385-HelperTools-master/PNG To Hex/On-Chip Memory/ram-mario.sv
+../ECE385-HelperTools-master/PNG To Hex/On-Chip Memory/ram-tile.sv
+../ECE385-HelperTools-master/PNG To Hex/On-Chip Memory/ram-title.sv
+c:/intelfpga_lite/18.1/quartus/bin64/assignment_defaults.qdf
+final_mario.qpf
+final_mario.qsf
+lab62_soc/synthesis/../../lab62_soc.qsys
+lab62_soc/synthesis/../../lab62_soc.sopcinfo
+lab62_soc/synthesis/../lab62_soc.cmp
+lab62_soc/synthesis/lab62_soc.debuginfo
+lab62_soc/synthesis/lab62_soc.qip
+lab62_soc/synthesis/lab62_soc.regmap
+lab62_soc/synthesis/lab62_soc.v
+lab62_soc/synthesis/submodules/altera_avalon_sc_fifo.v
+lab62_soc/synthesis/submodules/altera_avalon_st_clock_crosser.v
+lab62_soc/synthesis/submodules/altera_avalon_st_handshake_clock_crosser.sdc
+lab62_soc/synthesis/submodules/altera_avalon_st_handshake_clock_crosser.v
+lab62_soc/synthesis/submodules/altera_avalon_st_pipeline_base.v
+lab62_soc/synthesis/submodules/altera_avalon_st_pipeline_stage.sv
+lab62_soc/synthesis/submodules/altera_default_burst_converter.sv
+lab62_soc/synthesis/submodules/altera_incr_burst_converter.sv
+lab62_soc/synthesis/submodules/altera_merlin_address_alignment.sv
+lab62_soc/synthesis/submodules/altera_merlin_arbitrator.sv
+lab62_soc/synthesis/submodules/altera_merlin_burst_adapter.sv
+lab62_soc/synthesis/submodules/altera_merlin_burst_adapter_13_1.sv
+lab62_soc/synthesis/submodules/altera_merlin_burst_adapter_new.sv
+lab62_soc/synthesis/submodules/altera_merlin_burst_adapter_uncmpr.sv
+lab62_soc/synthesis/submodules/altera_merlin_burst_uncompressor.sv
+lab62_soc/synthesis/submodules/altera_merlin_master_agent.sv
+lab62_soc/synthesis/submodules/altera_merlin_master_translator.sv
+lab62_soc/synthesis/submodules/altera_merlin_slave_agent.sv
+lab62_soc/synthesis/submodules/altera_merlin_slave_translator.sv
+lab62_soc/synthesis/submodules/altera_merlin_width_adapter.sv
+lab62_soc/synthesis/submodules/altera_reset_controller.sdc
+lab62_soc/synthesis/submodules/altera_reset_controller.v
+lab62_soc/synthesis/submodules/altera_reset_synchronizer.v
+lab62_soc/synthesis/submodules/altera_std_synchronizer_nocut.v
+lab62_soc/synthesis/submodules/altera_wrap_burst_converter.sv
+lab62_soc/synthesis/submodules/lab62_soc_accumulate.v
+lab62_soc/synthesis/submodules/lab62_soc_hex_digits_pio.v
+lab62_soc/synthesis/submodules/lab62_soc_irq_mapper.sv
+lab62_soc/synthesis/submodules/lab62_soc_jtag_uart_0.v
+lab62_soc/synthesis/submodules/lab62_soc_key.v
+lab62_soc/synthesis/submodules/lab62_soc_keycode.v
+lab62_soc/synthesis/submodules/lab62_soc_leds_pio.v
+lab62_soc/synthesis/submodules/lab62_soc_mm_interconnect_0.v
+lab62_soc/synthesis/submodules/lab62_soc_mm_interconnect_0_avalon_st_adapter.v
+lab62_soc/synthesis/submodules/lab62_soc_mm_interconnect_0_avalon_st_adapter_005.v
+lab62_soc/synthesis/submodules/lab62_soc_mm_interconnect_0_avalon_st_adapter_005_error_adapter_0.sv
+lab62_soc/synthesis/submodules/lab62_soc_mm_interconnect_0_avalon_st_adapter_error_adapter_0.sv
+lab62_soc/synthesis/submodules/lab62_soc_mm_interconnect_0_cmd_demux.sv
+lab62_soc/synthesis/submodules/lab62_soc_mm_interconnect_0_cmd_mux.sv
+lab62_soc/synthesis/submodules/lab62_soc_mm_interconnect_0_router.sv
+lab62_soc/synthesis/submodules/lab62_soc_mm_interconnect_0_router_002.sv
+lab62_soc/synthesis/submodules/lab62_soc_mm_interconnect_0_router_007.sv
+lab62_soc/synthesis/submodules/lab62_soc_mm_interconnect_0_rsp_demux.sv
+lab62_soc/synthesis/submodules/lab62_soc_mm_interconnect_0_rsp_mux.sv
+lab62_soc/synthesis/submodules/lab62_soc_nios2_gen2_0.v
+lab62_soc/synthesis/submodules/lab62_soc_nios2_gen2_0_cpu.sdc
+lab62_soc/synthesis/submodules/lab62_soc_nios2_gen2_0_cpu.v
+lab62_soc/synthesis/submodules/lab62_soc_nios2_gen2_0_cpu_debug_slave_sysclk.v
+lab62_soc/synthesis/submodules/lab62_soc_nios2_gen2_0_cpu_debug_slave_tck.v
+lab62_soc/synthesis/submodules/lab62_soc_nios2_gen2_0_cpu_debug_slave_wrapper.v
+lab62_soc/synthesis/submodules/lab62_soc_nios2_gen2_0_cpu_ociram_default_contents.mif
+lab62_soc/synthesis/submodules/lab62_soc_nios2_gen2_0_cpu_rf_ram_a.mif
+lab62_soc/synthesis/submodules/lab62_soc_nios2_gen2_0_cpu_rf_ram_b.mif
+lab62_soc/synthesis/submodules/lab62_soc_nios2_gen2_0_cpu_test_bench.v
+lab62_soc/synthesis/submodules/lab62_soc_onchip_memory2_0.hex
+lab62_soc/synthesis/submodules/lab62_soc_onchip_memory2_0.v
+lab62_soc/synthesis/submodules/lab62_soc_sdram.v
+lab62_soc/synthesis/submodules/lab62_soc_sdram_pll.v
+lab62_soc/synthesis/submodules/lab62_soc_spi_0.v
+lab62_soc/synthesis/submodules/lab62_soc_sysid_qsys_0.v
+lab62_soc/synthesis/submodules/lab62_soc_timer_0.v
+lab62_soc/synthesis/submodules/lab62_soc_usb_rst.v
+Verilog/character.sv
+Verilog/Collisions.sv
+Verilog/Color_Mapper.sv
+Verilog/Goomba.sv
+Verilog/HexDriver.sv
+Verilog/Jump.sv
+Verilog/lab62.sv
+Verilog/VGA_controller.sv
+/users/stp/desktop/ece385-helpertools-master/png to hex/on-chip memory/sprite_bytes/castle.txt
+/users/stp/desktop/ece385-helpertools-master/png to hex/on-chip memory/sprite_bytes/coin.txt
+/users/stp/desktop/ece385-helpertools-master/png to hex/on-chip memory/sprite_bytes/coin_holder.txt
+/users/stp/desktop/ece385-helpertools-master/png to hex/on-chip memory/sprite_bytes/flag.txt
+/users/stp/desktop/ece385-helpertools-master/png to hex/on-chip memory/sprite_bytes/goomba.txt
+/users/stp/desktop/ece385-helpertools-master/png to hex/on-chip memory/sprite_bytes/luigi-facing-right.txt
+/users/stp/desktop/ece385-helpertools-master/png to hex/on-chip memory/sprite_bytes/mario-facing-right.txt
+/users/stp/desktop/ece385-helpertools-master/png to hex/on-chip memory/sprite_bytes/tile.txt
+/users/stp/desktop/ece385-helpertools-master/png to hex/on-chip memory/sprite_bytes/title.txt
+C:/Users/STP/Desktop/ECE385-HelperTools-master/PNG To Hex/On-Chip Memory/ram-castle.sv
+C:/Users/STP/Desktop/ECE385-HelperTools-master/PNG To Hex/On-Chip Memory/ram-coin.sv
+C:/Users/STP/Desktop/ECE385-HelperTools-master/PNG To Hex/On-Chip Memory/ram-coin_holder.sv
+C:/Users/STP/Desktop/ECE385-HelperTools-master/PNG To Hex/On-Chip Memory/ram-flag.sv
+C:/Users/STP/Desktop/ECE385-HelperTools-master/PNG To Hex/On-Chip Memory/ram-goomba.sv
+C:/Users/STP/Desktop/ECE385-HelperTools-master/PNG To Hex/On-Chip Memory/ram-luigi.sv
+C:/Users/STP/Desktop/ECE385-HelperTools-master/PNG To Hex/On-Chip Memory/ram-mario.sv
+C:/Users/STP/Desktop/ECE385-HelperTools-master/PNG To Hex/On-Chip Memory/ram-tile.sv
+C:/Users/STP/Desktop/ECE385-HelperTools-master/PNG To Hex/On-Chip Memory/ram-title.sv
